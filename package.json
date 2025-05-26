@@ -9,7 +9,7 @@
     "lint": "next lint",
     "email": "email dev",
     "postinstall": "prisma generate",
-    "vercel-build": "npm install --legacy-peer-deps && next build"
+    "vercel-build": "next build"
   },
   "dependencies": {
     "@arcjet/next": "^1.0.0-alpha.34",
