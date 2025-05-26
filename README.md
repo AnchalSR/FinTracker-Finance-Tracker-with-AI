@@ -1,1 +1,0 @@
-# FinTracker-Finance-Tracker-with-AI
